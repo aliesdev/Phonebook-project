@@ -1,0 +1,16 @@
+M:\Csharp\MyProject\MyProject\bin\Debug\MyProject.exe.config
+M:\Csharp\MyProject\MyProject\bin\Debug\MyProject.exe
+M:\Csharp\MyProject\MyProject\bin\Debug\MyProject.pdb
+M:\Csharp\MyProject\MyProject\obj\Debug\MyProject.csproj.AssemblyReference.cache
+M:\Csharp\MyProject\MyProject\obj\Debug\MyProject.Form1.resources
+M:\Csharp\MyProject\MyProject\obj\Debug\MyProject.Properties.Resources.resources
+M:\Csharp\MyProject\MyProject\obj\Debug\MyProject.csproj.GenerateResource.cache
+M:\Csharp\MyProject\MyProject\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
+M:\Csharp\MyProject\MyProject\obj\Debug\MyProject.exe
+M:\Csharp\MyProject\MyProject\obj\Debug\MyProject.pdb
+M:\Csharp\MyProject\MyProject\obj\Debug\MyProject.frmAddOrEdit.resources
+M:\Csharp\MyProject\MyProject\bin\Debug\EntityFramework.dll
+M:\Csharp\MyProject\MyProject\bin\Debug\EntityFramework.SqlServer.dll
+M:\Csharp\MyProject\MyProject\bin\Debug\EntityFramework.xml
+M:\Csharp\MyProject\MyProject\bin\Debug\EntityFramework.SqlServer.xml
+M:\Csharp\MyProject\MyProject\obj\Debug\MyProject.csproj.CopyComplete
